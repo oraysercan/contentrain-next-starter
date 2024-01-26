@@ -126,5 +126,13 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "aaa",
+    "description": "aaa",
+    "modelId": "aaa",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
