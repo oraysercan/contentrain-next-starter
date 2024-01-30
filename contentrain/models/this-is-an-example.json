@@ -58,5 +58,15 @@
     "system": true,
     "defaultField": false,
     "modelId": "this-is-an-example"
+  },
+  {
+    "name": "my description",
+    "description": "This is my description",
+    "fieldId": "my-description",
+    "modelId": "this-is-an-example",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
