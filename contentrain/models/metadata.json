@@ -134,5 +134,13 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "This is an example",
+    "description": "This model is my example",
+    "modelId": "this-is-an-example",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
