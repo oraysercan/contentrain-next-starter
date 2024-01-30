@@ -68,5 +68,15 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "my blog",
+    "description": "This is my blog",
+    "fieldId": "my-blog",
+    "modelId": "this-is-an-example",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
