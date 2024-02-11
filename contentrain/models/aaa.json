@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "aaa"
+  },
+  {
+    "name": "Rich text deneme",
+    "fieldId": "rich-text-deneme",
+    "modelId": "aaa",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
