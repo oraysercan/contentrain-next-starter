@@ -16,5 +16,14 @@
     },
     "validations": {},
     "fieldType": "relation"
+  },
+  {
+    "name": "authors",
+    "fieldId": "authors",
+    "modelId": "buttons",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
