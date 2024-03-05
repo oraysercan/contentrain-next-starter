@@ -67,5 +67,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "email",
+    "fieldId": "email",
+    "modelId": "aaa",
+    "componentId": "email",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
